@@ -1,0 +1,5 @@
+ultralytics
+pyautogui
+opencv-python
+numpy
+pillow

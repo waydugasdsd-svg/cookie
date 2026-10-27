@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+
+# macOS
+.DS_Store
+
+# YOLO / Training
+runs/
+*.pt
+!yolov8n.pt
+preview/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo

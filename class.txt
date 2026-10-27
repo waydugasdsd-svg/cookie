@@ -1,0 +1,4 @@
+game
+ad_close
+upgrade
+bonus
